@@ -1,10 +1,9 @@
 genhost
 =======
 
-This script will randomly generate hostnames by picking words from the
-provided word list. The pool of words comes from Oren Tirosh's
+These two scripts will randomly generate a hostname for a server (using the pool of words comes from Oren Tirosh's
 [mnemonic encoding](http://web.archive.org/web/20090918202746/http://tothink.com/mnemonic/wordlist.html)
-project.
+project) or a workstation (using characters from the [Marvel Universe](http://marvel.com/comics/characters)).
 
 Usage
 -----
