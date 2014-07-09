@@ -25,3 +25,16 @@ For collaboration purposes, don't forget to commit the updated word list back to
 I also like to sort the text files so I know what has been used:
 
 	$ sort wordlist -o wordlist
+
+Helper Utilities
+----------------
+
+I worte two simple Python scripts:
+
+### get_workstation_names.py
+
+Download a list of Marvel Universe characters for the `workstations-wordlist`.
+
+### remove_dups.py
+
+Removes entries found in the `servers-wordlist` that are already in the `workstations-wordlist`.
