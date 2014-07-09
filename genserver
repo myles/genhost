@@ -4,8 +4,8 @@
 # genhost - generate unused hostnames by randomly picking from a word list
 #
 
-readonly wordlist='wordlist'
-readonly domain='example.com'
+readonly wordlist='servers-wordlist'
+readonly domain='mylesbraithwaite.net'
 
 # http://mywiki.wooledge.org/BashFAQ/026
 
@@ -18,7 +18,7 @@ rand() {
 
 # check for a positive integer argument
 if [[ -z $1 ]]; then
-  echo 'Usage: genhost <integer>'
+  echo 'Usage: genhost <wordlist> <integer>'
   echo 'Generate unused hostnames by randomly picking from a word list'
   exit 1
 else

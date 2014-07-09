@@ -185,7 +185,7 @@ brigade
 british
 broken
 bronze
-brother
+#brother
 brown
 bruce
 bruno
@@ -365,7 +365,7 @@ culture
 cupid
 current
 cycle
-cyclone
+#cyclone
 dallas
 dance
 daniel
@@ -375,7 +375,7 @@ data
 david
 deal
 decade
-decide
+#decide
 decimal
 declare
 degree
@@ -560,6 +560,7 @@ fortune
 forum
 forward
 fossil
+#fox
 fractal
 fragile
 frame
@@ -1027,7 +1028,7 @@ orbit
 orca
 orchid
 order
-oregano
+#oregano
 organic
 orient
 origami
@@ -1054,7 +1055,7 @@ palma
 pamela
 panama
 pancake
-panda
+#panda
 pandora
 panel
 panic
@@ -1099,7 +1100,7 @@ perfume
 period
 permit
 person
-peru
+#peru
 phantom
 philips
 phoenix
@@ -1339,13 +1340,13 @@ shelf
 shelter
 sheriff
 sherman
-shine
+#shine
 ship
 shirt
 shock
-shoe
+#shoe
 short
-shrink
+#shrink
 side
 sierra
 sigma
@@ -1414,7 +1415,7 @@ square
 stadium
 stage
 stamp
-stand
+#stand
 star
 state
 static
@@ -1526,7 +1527,7 @@ trivial
 tropic
 truck
 trumpet
-trust
+#trust
 tulip
 tuna
 tunnel
